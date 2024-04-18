@@ -1,1 +1,1 @@
-# VarientCalling-Pipline
+# VarientCalling-Pipeline
